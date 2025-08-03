@@ -23,7 +23,7 @@ pkg update && pkg upgrade
 pkg install python
 pip install requests
 git clone https://github.com/BhuiyanXToolZ/SMS -Bomber-Pro-BD
-cd'Sms Bombing'
+cd SMS-Bomber-Pro-BD
 python sms_bombing.py
 </pre>
 
