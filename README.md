@@ -22,7 +22,7 @@ Welcome to BhuiyanToolz SMS Bombing Tool 🚀
 pkg update && pkg upgrade
 pkg install python
 pip install requests
-git clone https://github.com/BhuiyanXToolZ/SMS -Bomber-Pro-BD
+git clone https://github.com/BhuiyanToolsZ/SMS-Bomber-Pro-BD.git
 cd SMS-Bomber-Pro-BD
 python sms_bombing.py
 </pre>
