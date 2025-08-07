@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20By-BhuiyanTooslz-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Termux-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/github/watchers/BhuiyanToolsZ/SMS-Bomber-Pro-BD?style=for-the-badge&label=Watching&logo=eye" />
+
+
 # BhuiyanToolZ
 SMS-Bomber-Pro-BD powerful Python-based SMS bombing tool using multiple APIs to send OTP messages rapidly. Designed for educational purposes and testing only. Developed by BhuiyanToolz.  Welcome to BhuiyanToolz SMS Bombing Tool 🚀
 <!DOCTYPE html>
